@@ -1,5 +1,5 @@
 {
-  "infura": "65e65b5943cd451fa0104fc87ffcc891",
-  "network": "rinkeby",
-  "contract": "0x2134D1c1B259644d625DeF5537FC223fB012f58A"
+  "infura": "15dd2c3a107d4f5ea4055fb07d899d64",
+  "network": "ethereum",
+  "contract": "0x811aE1d5E9BFBc85a7e668C35c9F9122E4aC8d5f"
 }
